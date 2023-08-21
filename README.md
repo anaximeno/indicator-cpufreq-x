@@ -9,4 +9,4 @@ Original source https://launchpad.net/indicator-cpufreq.
 - [ ] Configure package structure
 - [ ] Add build action
 - [ ] Make it able to remember the last chosen profiles on restart
-- [ ] Make its tooltip information dynamic
+- [ ] Make its tooltip information more useful and dynamic
