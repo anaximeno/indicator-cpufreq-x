@@ -17,12 +17,11 @@ DistUtilsExtra.auto.setup(
     # install icons as data_files because distutils don't do that well
     data_files=[
         ('share/icons/ubuntu-mono-dark/status/22',
-            glob.glob('icons/ubuntu-mono-dark/*')),
+            glob.glob('icons/ubuntu-mono-dark/status/22/*')),
         ('share/icons/ubuntu-mono-light/status/22',
-            glob.glob('icons/ubuntu-mono-light/*')),
-        # temp fix for LP: #1125598
+            glob.glob('icons/ubuntu-mono-light/status/22/*')),
         ('share/icons/hicolor/22x22/status',
-            glob.glob('icons/ubuntu-mono-dark/*')),
+            glob.glob('icons/hicolor/22x22/status/*')),
 #        ('/var/lib/polkit-1/localauthority/10-vendor.d',
 #            ['indicator-cpufreq.pkla']),
     ]
