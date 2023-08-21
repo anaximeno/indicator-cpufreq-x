@@ -1,4 +1,4 @@
 # indicator-cpufreq
 
-Fork of the indicator-cpufreq package adapted for the Linux Mint distribution as an applet.  
+Fork of the indicator-cpufreq package.  
 Original source https://launchpad.net/indicator-cpufreq.
