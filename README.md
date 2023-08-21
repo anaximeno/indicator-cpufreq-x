@@ -1,4 +1,4 @@
-# indicator-cpufreq
+# indicator-cpufreq-x
 
 Fork of the indicator-cpufreq package.  
 Original source https://launchpad.net/indicator-cpufreq.
